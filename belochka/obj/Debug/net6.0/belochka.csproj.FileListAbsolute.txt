@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.AssemblyInfo.cs
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\belochka.exe
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\belochka.deps.json
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\belochka.runtimeconfig.json
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\belochka.dll
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\belochka.pdb
+C:\Users\user\source\repos\belochka\belochka\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.csproj.CopyComplete
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.dll
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\refint\belochka.dll
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.pdb
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\belochka.genruntimeconfig.cache
+C:\Users\user\source\repos\belochka\belochka\obj\Debug\net6.0\ref\belochka.dll

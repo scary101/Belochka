@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gn8+uzEO0pg0170pU+sHVtY9COfTjyGAg4Z9D8RIsFImo26SprXvO2jl6yXOzLryx0dsUevulHaOJMoHSREhQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\belochka\\belochka\\belochka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
