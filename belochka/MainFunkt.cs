@@ -130,44 +130,44 @@ namespace belochka
 
         public static void CreateMenu()
         {
-            Console.SetCursorPosition(105, 2);
+            Console.SetCursorPosition(100, 2);
             Console.WriteLine("Сохранить - S");
-            Console.SetCursorPosition(105, 3);
+            Console.SetCursorPosition(100, 3);
             Console.WriteLine("HUB - Esc");
         }
 
         public static void ReadAllMenu()
         {
-            Console.SetCursorPosition(90, 2);
+            Console.SetCursorPosition(100, 2);
             Console.WriteLine("Удалить - Del");
-            Console.SetCursorPosition(90, 3);
+            Console.SetCursorPosition(100, 3);
             Console.WriteLine("HUB - Esc");
-            Console.SetCursorPosition(90, 4);
+            Console.SetCursorPosition(100, 4);
             Console.WriteLine("Создать - F2");
-            Console.SetCursorPosition(90, 5);
+            Console.SetCursorPosition(100, 5);
             Console.WriteLine("Поиск - F3");
         }
 
         public static void ReadMenu()
         {
-            Console.SetCursorPosition(90, 2);
+            Console.SetCursorPosition(100, 2);
             Console.WriteLine("Обновить - F1");
-            Console.SetCursorPosition(90, 3);
+            Console.SetCursorPosition(100, 3);
             Console.WriteLine("HUB - Esc");
-            Console.SetCursorPosition(90, 4);
+            Console.SetCursorPosition(100, 4);
             Console.WriteLine("Сохранить - S");
         }
         public static void RoleMenu()
         {
-            Console.SetCursorPosition(90, 6);
+            Console.SetCursorPosition(100, 6);
             Console.WriteLine("Админ - 1");
-            Console.SetCursorPosition(90, 7);
+            Console.SetCursorPosition(100, 7);
             Console.WriteLine("Кадровик - 2");
-            Console.SetCursorPosition(90, 8);
+            Console.SetCursorPosition(100, 8);
             Console.WriteLine("Склад - 3");
-            Console.SetCursorPosition(90, 9);
+            Console.SetCursorPosition(100, 9);
             Console.WriteLine("Кассир - 4");
-            Console.SetCursorPosition(90, 10);
+            Console.SetCursorPosition(100, 10);
             Console.WriteLine("Бухгалтер - 5");
         }
 
