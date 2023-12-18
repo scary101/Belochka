@@ -130,9 +130,9 @@ namespace belochka
 
         public static void CreateMenu()
         {
-            Console.SetCursorPosition(90, 2);
+            Console.SetCursorPosition(105, 2);
             Console.WriteLine("Сохранить - S");
-            Console.SetCursorPosition(90, 3);
+            Console.SetCursorPosition(105, 3);
             Console.WriteLine("HUB - Esc");
         }
 
